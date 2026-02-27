@@ -23,3 +23,10 @@ console.log(primary.concat(secondary));
 // slice-   copies portion of the array
 let x=primary.slice();
 console.log(x);
+
+// sort arrays
+//array reference
+//[1]==[1]false
+
+//constant arrays
+//we can push and pop on constant array
